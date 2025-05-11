@@ -27,7 +27,7 @@ public class Snake {
             case 'R' -> x[0] += unitSize;
         }
     }
-
+//
     public void grow()
     {
         bodyParts++;
